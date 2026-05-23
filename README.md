@@ -21,6 +21,7 @@
 ![ML](https://img.shields.io/badge/ML-007ACC?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 📂 Projects
 
 - More projects coming soon! 🚀
