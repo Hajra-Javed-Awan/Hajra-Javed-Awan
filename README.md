@@ -11,6 +11,14 @@
 - 📧 Email: [hajrajavedawan29@gmail.com]
 
 ---
+🛠️ Skills & Tools
+
+[c++]
+[Python]
+[ML]
+[AI]
+[VS code]
+[Jupyter]
 
 📂 Projects
 
