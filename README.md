@@ -19,6 +19,7 @@
 ---
 
 📊 GitHub Stats
+
 ![Hajra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hajra-Javed-Awan&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajra-Javed-Awan&layout=compact&theme=radical)
