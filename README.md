@@ -1,4 +1,5 @@
-👋 Hi, I'm Hajra Javed Awan
+**👋 Hi, I'm Hajra Javed Awan**
+---
 
 🎓 CS & IT Student | Python Programmer | AI & ML Enthusiast
 
@@ -10,7 +11,6 @@
 
 - 📧 Email: [hajrajavedawan29@gmail.com]
 
----
 ---
 
 ### 🛠️ Skills & Tools
