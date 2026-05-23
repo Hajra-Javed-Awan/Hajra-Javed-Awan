@@ -28,7 +28,7 @@
 
 ---
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Hajra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hajra-Javed-Awan&show_icons=true&theme=radical)
 
