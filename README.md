@@ -39,9 +39,9 @@
 🎯 Learning & Goals
 
 - Deepening my knowledge in AI & ML
-- 
+
 - Building more projects in Python, C++ & Web Development
-- 
+  
 - Contributing to Open Source projects
 
 ---
