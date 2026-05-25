@@ -24,7 +24,7 @@
 
 ## 📂 Projects
 
-Snake Game:A classic Snake Game developed in Python using the Turtle graphics library with score tracking, collision detection, and interactive gameplay.
+Snake Game:[https://github.com/Hajra-Javed-Awan/Snake-.git]A classic Snake Game developed in Python using the Turtle graphics library with score tracking, collision detection, and interactive gameplay.
 
 - More projects coming soon! 🚀
 
