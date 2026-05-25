@@ -24,13 +24,11 @@
 
 ## 📂 Projects
 
-Snake Game:[https://github.com/Hajra-Javed-Awan/Snake-.git]A classic Snake Game developed in Python using the Turtle graphics library with score tracking, collision detection, and interactive gameplay.
+Snake Game:[https://github.com/Hajra-Javed-Awan/Snake-.git] A classic Snake Game developed in Python using the Turtle graphics library with score tracking, collision detection, and interactive gameplay.
 
 Weather and Air Quality Analysis System:[https://github.com/Hajra-Javed-Awan/Weather-and-Air-Quality-Analysis-System.git] A Python-based data analysis project that analyzes weather and air pollution data of different cities using graphs and visualizations.
 
-Language Translation Tool:[]A Python-based application that translates text from one language to another using a translation API with a simple and user-friendly interface.
-
-Overview
+Language Translation Tool:[https://github.com/Hajra-Javed-Awan/Language-Translation-Tool.git] A Python-based application that translates text from one language to another using a translation API with a simple and user-friendly interface.
 
 - More projects coming soon! 🚀
 
