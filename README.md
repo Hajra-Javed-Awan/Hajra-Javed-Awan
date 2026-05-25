@@ -26,7 +26,7 @@
 
 Snake Game:[https://github.com/Hajra-Javed-Awan/Snake-.git]A classic Snake Game developed in Python using the Turtle graphics library with score tracking, collision detection, and interactive gameplay.
 
-Weather and Air Quality Analysis System:[]A Python-based data analysis project that analyzes weather and air pollution data of different cities using graphs and visualizations.
+Weather and Air Quality Analysis System:[https://github.com/Hajra-Javed-Awan/Weather-and-Air-Quality-Analysis-System.git] A Python-based data analysis project that analyzes weather and air pollution data of different cities using graphs and visualizations.
 
 - More projects coming soon! 🚀
 
