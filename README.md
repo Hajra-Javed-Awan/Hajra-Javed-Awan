@@ -30,7 +30,7 @@ Weather and Air Quality Analysis System:[https://github.com/Hajra-Javed-Awan/Wea
 
 Language Translation Tool:[https://github.com/Hajra-Javed-Awan/Language-Translation-Tool.git] A Python-based application that translates text from one language to another using a translation API with a simple and user-friendly interface.
 
-Customer Churn Prediction System:[An end-to-end customer churn prediction app built with Python, Streamlit and scikit-learn. It analyzes telecom customer data, predicts each customer’s probability of leaving, and explains the key factors behind the prediction, helping businesses spot at-risk customers early.
+Customer Churn Prediction System:[https://github.com/Hajra-Javed-Awan/customer-churn-prediction-system]An end-to-end customer churn prediction app built with Python, Streamlit and scikit-learn. It analyzes telecom customer data, predicts each customer’s probability of leaving, and explains the key factors behind the prediction, helping businesses spot at-risk customers early.
 - More projects coming soon! 🚀
 
 ---
