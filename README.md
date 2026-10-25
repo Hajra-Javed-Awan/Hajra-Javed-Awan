@@ -7,7 +7,7 @@
 
 💬 Ask me about Python, C++, AI, or ML
 
-📫 Contact me: [https://www.linkedin.com/in/hajra-javed-awan-589925408/]
+📫 Contact me: [Linkdin](https://www.linkedin.com/in/hajra-javed-awan-589925408/)
 
 - 📧 Email: [hajrajavedawan29@gmail.com]
 
